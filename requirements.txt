@@ -1,0 +1,8 @@
+streamlit>=1.35
+earthengine-api>=0.1.400
+folium>=0.16
+streamlit-folium>=0.20
+pandas>=2.0
+requests>=2.31
+shapely>=2.0
+reportlab>=4.0
